@@ -1,2 +1,2 @@
 # big-data-analytics
-The supplementary materials of the "Big Data Analysis Edit" course on Coursera
+The supplementary materials of the "Big Data Analysis" course on Coursera
